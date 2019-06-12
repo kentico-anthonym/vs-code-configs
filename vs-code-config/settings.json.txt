@@ -1,0 +1,40 @@
+{
+    "git.autofetch": false,
+    "workbench.colorTheme": "Cobalt2",
+    "terminal.integrated.shell.windows": "C:\\windows\\System32\\wsl.exe",
+    "cSpell.userWords": [
+        "Contoso",
+        "addin",
+        "polyfill",
+        "sideload",
+        "taskpane"
+    ],
+    "cSpell.diagnosticLevel": "Hint",
+    "cSpell.enabled": false,
+    "workbench.startupEditor": "welcomePage",
+    "window.zoomLevel": 0,
+    // Editor settings
+    "editor.fontSize": 17,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.syntaxProfiles": {
+        "jsx": {
+            "self_closing_tags": true
+        },
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": false,
+    "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.options": {
+        "extensions": [
+            ".js",
+            ".jsx"
+        ]
+    }
+}
